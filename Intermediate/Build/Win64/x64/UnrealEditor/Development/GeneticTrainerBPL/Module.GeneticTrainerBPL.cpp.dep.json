@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\genetictrainerbpl\\module.genetictrainerbpl.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\ue5\\genetictrainer\\intermediate\\build\\win64\\x64\\genetictrainereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\genetictrainerbpl\\definitions.genetictrainerbpl.h",
+            "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\intermediate\\build\\win64\\unrealeditor\\inc\\genetictrainerbpl\\uht\\genetictrainerbpl.init.gen.cpp",
+            "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\intermediate\\build\\win64\\unrealeditor\\inc\\genetictrainerbpl\\uht\\genetictrainerbplbplibrary.gen.cpp",
+            "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\source\\genetictrainerbpl\\public\\genetictrainerbplbplibrary.h",
+            "d:\\projects\\ue5\\genetictrainer\\plugins\\genetictrainerbpl\\intermediate\\build\\win64\\unrealeditor\\inc\\genetictrainerbpl\\uht\\genetictrainerbplbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

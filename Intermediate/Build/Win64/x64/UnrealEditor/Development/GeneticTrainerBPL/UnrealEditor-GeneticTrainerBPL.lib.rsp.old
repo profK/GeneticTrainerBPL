@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeneticTrainerBPL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\projects\UE5\GeneticTrainer\Intermediate\Build\Win64\x64\GeneticTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\projects\UE5\GeneticTrainer\Plugins\GeneticTrainerBPL\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeneticTrainerBPL\Module.GeneticTrainerBPL.cpp.obj"
+"D:\projects\UE5\GeneticTrainer\Plugins\GeneticTrainerBPL\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeneticTrainerBPL\GeneticTrainerBPL.cpp.obj"
+"D:\projects\UE5\GeneticTrainer\Plugins\GeneticTrainerBPL\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeneticTrainerBPL\GeneticTrainerBPLBPLibrary.cpp.obj"
+"D:\projects\UE5\GeneticTrainer\Plugins\GeneticTrainerBPL\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeneticTrainerBPL\Default.rc2.res"
+/OUT:"D:\projects\UE5\GeneticTrainer\Plugins\GeneticTrainerBPL\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeneticTrainerBPL\UnrealEditor-GeneticTrainerBPL.lib"

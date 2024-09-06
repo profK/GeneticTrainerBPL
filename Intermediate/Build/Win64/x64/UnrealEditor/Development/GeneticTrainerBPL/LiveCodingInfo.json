@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeneticTrainerBPL.cpp.obj": [
+			"GeneticTrainerBPL.init.gen.cpp.obj",
+			"GeneticTrainerBPLBPLibrary.gen.cpp.obj",
+			"GeneticTrainerBPL.cpp.obj",
+			"GeneticTrainerBPLBPLibrary.cpp.obj"
+		]
+	}
+}
