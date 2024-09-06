@@ -30,6 +30,7 @@ struct FFloatingPointGenome
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Genetic Algorithm")
 	TArray<float> genes;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Genetic Algorithm")
 	int lastScore=0;
 };
 
